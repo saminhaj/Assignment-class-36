@@ -34,12 +34,17 @@ img{
   
 .newsletter-form form button {
     background: none !important;
-
     border-color: #fff;
     color: #fff !important;
     font-size: 15px;
     margin-left: 14px;
     padding: 8px 28px;
+    transition: .5s;
+  }
+  .newsletter-form form button:hover{
+    background-color: #fff !important;
+    color: #3763eb !important;
+    border-color: #fff !important;
   }
 
   .newsletter-text {
@@ -59,9 +64,14 @@ img{
 .newsletter-text a {
 	background: #3763eb !important;
 	font-size: 15px;
-	font-weight: 500;
+	font-weight: 600;
 	padding: 10px 34px;
 	display: inline-block;
+}
+.newsletter-text a:hover{
+  background-color: #fff !important;
+  border-color: #3763eb !important;
+  color: #3763eb !important;
 }
 
 /* company */
