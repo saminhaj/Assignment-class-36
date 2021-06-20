@@ -40,6 +40,7 @@ img{
     margin-left: 14px;
     padding: 8px 28px;
     transition: .5s;
+    font-weight: 600;
   }
   .newsletter-form form button:hover{
     background-color: #fff !important;
