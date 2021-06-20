@@ -13,6 +13,7 @@ img{
 .newsletter-form {
     padding: 50px;
     background: #3763eb;
+    border-radius: 5px;
   }
   .newsletter-form h4 {
     color: #fff;
