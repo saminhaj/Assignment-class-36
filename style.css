@@ -43,9 +43,10 @@ img{
   }
 
   .newsletter-text {
-	background: #fff;
-	padding: 28px;
-}
+    background: #fff;
+    padding: 28px;
+    box-shadow: 1px 1px 18px #ddd;
+  }
   .newsletter-text h4 {
 	font-size: 22px;
 	font-weight: 500;
